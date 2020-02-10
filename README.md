@@ -4,8 +4,8 @@ LAB - Class 17
 Project Name  : TCP-Server-Message-Application
 Author: Student/ obada
 Links and Resources
-submission PR
-ci/cd ()
+submission PR (
+ci/cd (https://github.com/401-advanced-javascript-obadaalmatrami/lab-class-17-TCP-Server-Message-Application/actions)
 Setup
 PORT - Port Number (3001)
 e.g. npm start
